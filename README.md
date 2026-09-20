@@ -60,3 +60,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 #praktikum laravel
 diulah gasan matkul Pemrograman Web
+Update kedua: menambahkan catatan praktikum.
